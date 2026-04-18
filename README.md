@@ -36,9 +36,6 @@ Bradley Adams.
   HP bars, and move selection
 - **Progression Map** — visual overview of your journey and upcoming opponents
 
-## Screenshots
-*Coming soon*
-
 ## Tech Stack
 - **Language:** Java
 - **GUI:** JavaFX
